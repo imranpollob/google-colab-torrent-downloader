@@ -24,6 +24,9 @@ Click the badge which says 'Open in Colab' and follow directions there.
    ![](./img/2.jpeg)
 4. Open `Files`. Press folder refresh icon. Your downloaded torrent file should be inside the `Torrent` folder
    ![](./img/3.jpeg)
+5. Download the file by pressing right click -> `Download`
+   ![](./img/6.jpeg)
+
 
 ### Notes
 

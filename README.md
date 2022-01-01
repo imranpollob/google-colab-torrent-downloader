@@ -4,10 +4,6 @@ Run this python notebook script to download torrent files in Google Colab.
 
 <a href="https://colab.research.google.com/github/pollmix/google-colab-torrent-downloader/blob/master/torrent.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-### Tutorial
-
-Click the badge which says 'Open in Colab' and follow directions there.
-
 ### Purpose
 
 1. Download torrent files where torrent downloading is restricted.

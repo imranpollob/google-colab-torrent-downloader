@@ -15,12 +15,16 @@ Run this python notebook script to download torrent files in Google Colab.
 
 1. Click the `Open in Colab` badge above.
 2. Click `Runtime` -> `Run all`
+   
    ![](./img/1.jpeg)
 3. Input the Torrent file link or Magnet link and press `Enter`
+   
    ![](./img/2.jpeg)
 4. Open `Files`. Press folder refresh icon. Your downloaded torrent files should be inside the `Torrent` folder. The zipped file is called `Downloaded-Torrent.zip`
+   
    ![](./img/3.jpeg)
 5. Download the zipped file by pressing right click -> `Download`. You may also download other files seperately.
+   
    ![](./img/4.jpeg)
 
 
